@@ -1,9 +1,11 @@
 # ed25519-signatures
 
 This is a demo showing how to generate different signatures for the same pubkey and message.
+It was created as part for the article https://medium.com/@simonwarta/signature-determinism-for-blockchain-developers-dbd84865a93e.
 
-It was created as part for the article
-https://medium.com/@simonwarta/signature-determinism-for-blockchain-developers-dbd84865a93e
+## Getting started
+
+The only interesting file is [src/main.rs](src/main.rs).
 
 ## License
 
